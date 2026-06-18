@@ -1,4 +1,4 @@
-# Cosmic-Radiation-Matlab
+# Cosmic-Radiation
 
 ## Cosmic Radiation Safety Check
 this program is used to collect the ammount of radiation recived from a high altitude flight 
